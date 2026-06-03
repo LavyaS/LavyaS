@@ -1,8 +1,8 @@
 # 👋 Hey, I'm Lavya
 
-🎓 Computer Engineering Student at MIT-WPU
+🎓 Integrated B.Tech Computer Engineering Student at MIT-WPU
 
-I'm passionate about software engineering, cybersecurity, and AI. I enjoy building projects, exploring new technologies, and pushing myself beyond my comfort zone through continuous learning and hands-on development.
+I'm a Computer Engineering student passionate about software engineering, cybersecurity, and AI. I enjoy building practical projects, exploring emerging technologies, and continuously improving my technical skills through hands-on learning.
 
 ## 🚀 What I'm Currently Working On
 
@@ -48,23 +48,31 @@ I'm passionate about software engineering, cybersecurity, and AI. I enjoy buildi
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
+## 🌱 Currently Learning
+
+* Artificial Intelligence & Machine Learning
+* Cybersecurity & Networking
+* Software Architecture
+* System Design
+* Open Source Development
+
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LavyaS&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LavyaS\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LavyaS&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LavyaS\&layout=compact\&theme=tokyonight)
+
 ## 🎯 Goals for 2026
 
-* Build projects that solve real-world problems
-* Contribute to open-source projects
-* Deepen my knowledge of AI and cybersecurity
-* Learn scalable software architecture and system design
-* Grow into a well-rounded software engineer
+* Build and deploy impactful software projects
+* Contribute to open-source communities
+* Strengthen expertise in AI and cybersecurity
+* Develop strong system design and software architecture skills
+* Earn industry-recognized certifications
 
-## 📫 Reach Me
+## 🤝 Let's Connect
 
-💼 LinkedIn: https://www.linkedin.com/in/lavya-s-chauhan-59363b287/
-
+💼 LinkedIn: [Lavya S Chauhan](https://www.linkedin.com/in/lavya-s-chauhan-59363b287/)
 
 ---
 
